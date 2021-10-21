@@ -1,5 +1,5 @@
 # Predicting Phylogenetic Kingdom 
-Short python notebook detailing the process of predicting phylogenetic kingdom using features such as relative codon expression.
+Short python notebook detailing the process of predicting phylogenetic kingdom using features such as relative codon expression.  
 Contents:  
 * Data loading and preprocessing  
 * Descriptive statistics and exploratory data analysis  
